@@ -1,4 +1,4 @@
-# CSV Comparison Tool
+# Simple CSV comparsion tool
 
 A simple Python script to compare two CSV files and identify differences between them. The comparison is case insensitive and focuses on the first column of each CSV. Differences are printed to the terminal and saved to a new CSV file.  
 
