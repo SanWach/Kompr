@@ -18,13 +18,13 @@ A simple Python script to compare two CSV files and identify differences between
 
 1. Place your CSV files in the same folder as the script
 2. Modify the file names in the code at file_a and file_b 
-3. Run the script:
+3. Run the script
+4. Check the terminal output for differences
+5. Differences are also saved in differences.csv
+
+You are free to use this script and modify it to your liking. 
 
 ```bash
 python kompr.py
 
-3. Check the terminal output for differences
-4. Differences are also saved in differences.csv
 
-
-You are free to use this script and modify it to your liking. 
